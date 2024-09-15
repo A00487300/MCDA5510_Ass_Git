@@ -2,3 +2,8 @@
 Public int max (int a, int b) {
 return Math.max(a, b);
 }
+
+#A00487533
+public double average(int a, int b) {
+        return (a + b) / 2.0; 
+}
