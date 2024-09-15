@@ -7,3 +7,7 @@ return Math.max(a, b);
 public double average(int a, int b) {
         return (a + b) / 2.0; 
 }
+#A00488600
+Public int Pow(int a, int b){
+	return Math.pow(a,b)   
+    }
